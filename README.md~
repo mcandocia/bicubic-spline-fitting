@@ -1,0 +1,7 @@
+# "Geographic" Bicubic Splines
+
+This is a repository of code used to create bicubic splines to fit samples of 2D grid data.
+
+This isn't perfectly organized, as I am planning on creating a more comprehensive, usable suite of tools for this purpose in the future.
+
+See https://maxcandocia.com/articles/2024/Oct/14/sampled-bicubic-spline-fitting
